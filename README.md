@@ -4,4 +4,4 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 # Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
-<img width="991" height="611" alt="archetecture drawio" src="https://github.com/user-attachments/assets/b04beef2-00ac-465d-895b-86260358e5e1" />
+<img width="991" height="611" alt="archetecture drawio" src="https://github.com/user-attachments/assets/313d0bdf-6a44-4668-ac4a-fbea43a2cf52" />
