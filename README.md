@@ -49,7 +49,7 @@ Sales Trends
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 ___
 # Repository Structure
-<pre> data-warehouse-project/
+<pre> <code> data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
@@ -71,7 +71,9 @@ ___
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
-└── requirements.txt                    # Dependencies and requirements for the project </pre>
+└── requirements.txt                    # Dependencies and requirements for the project </code> </pre>
 ___
 # License
 This project is licensed under the [MIT License](https://github.com/MaungSoePyay/sql-data-warehouse-project?tab=MIT-1-ov-file#). You are free to use, modify, and share this project with proper attribution.
+
+
